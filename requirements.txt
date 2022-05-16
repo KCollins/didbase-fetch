@@ -1,0 +1,4 @@
+urllib
+pandas
+plotly.express
+wget
