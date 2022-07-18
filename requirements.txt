@@ -2,4 +2,3 @@ urllib3
 pandas
 plotly.express
 wget
-os
